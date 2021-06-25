@@ -1,3 +1,7 @@
+### Update
+---
+I realised that train_model and new_train.pkl is too huge and has to be pushed with git lfs. Till I figure that out, you can just ask for the file from me.
+
 ### Address element extraction
 ---
 
